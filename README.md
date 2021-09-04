@@ -1,3 +1,2 @@
-# flip_card  
-課堂簡易專題:  
-基於swift的翻牌遊戲  
+# Flip_card Game  
+A simpe game of iphone which is designed by Swift.  
